@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "test:equity": "node --test tests/equity-valuation/**/*.test.js",
     "value:stock": "node src/equity-valuation/cli/main.js",
     "check:disclosures": "node -e \"const { checkDisclosures } = require('./src/equity-valuation/jobs/check-disclosures'); console.log(typeof checkDisclosures === 'function' ? 'ok' : 'ng');\""
   },
