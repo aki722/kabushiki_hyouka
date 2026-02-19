@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "value:stock": "node src/equity-valuation/cli/main.js"
+    "value:stock": "node src/equity-valuation/cli/main.js",
+    "check:disclosures": "node -e \"const { checkDisclosures } = require('./src/equity-valuation/jobs/check-disclosures'); console.log(typeof checkDisclosures === 'function' ? 'ok' : 'ng');\""
   },
   "dependencies": {
     "playwright": "^1.58.2"
