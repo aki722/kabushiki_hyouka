@@ -1,0 +1,29 @@
+﻿{
+  "cik": "0000320193",
+  "entityName": "Apple Inc.",
+  "facts": {
+    "us-gaap": {
+      "Revenues": {
+        "units": {
+          "USD": [
+            { "end": "2023-09-30", "val": 383285000000, "fy": 2023, "fp": "FY", "form": "10-K" }
+          ]
+        }
+      },
+      "OperatingIncomeLoss": {
+        "units": {
+          "USD": [
+            { "end": "2023-09-30", "val": 114301000000, "fy": 2023, "fp": "FY", "form": "10-K" }
+          ]
+        }
+      },
+      "PaymentsToAcquirePropertyPlantAndEquipment": {
+        "units": {
+          "USD": [
+            { "end": "2023-09-30", "val": 10959000000, "fy": 2023, "fp": "FY", "form": "10-K" }
+          ]
+        }
+      }
+    }
+  }
+}
