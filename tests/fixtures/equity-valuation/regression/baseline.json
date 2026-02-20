@@ -1,0 +1,14 @@
+﻿{
+  "AAPL": {
+    "valuePerShare": 70.99140118203209,
+    "tolerance": 0.01
+  },
+  "MSFT": {
+    "valuePerShare": 76.62181669578321,
+    "tolerance": 0.01
+  },
+  "7203": {
+    "valuePerShare": 4676.007728408576,
+    "tolerance": 0.5
+  }
+}

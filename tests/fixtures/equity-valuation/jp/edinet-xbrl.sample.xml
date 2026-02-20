@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xbrl>
+  <jppfs_cor:NetSales contextRef="CurrentYearDuration">45123700000000</jppfs_cor:NetSales>
+  <jppfs_cor:OperatingIncome contextRef="CurrentYearDuration">5352300000000</jppfs_cor:OperatingIncome>
+  <jppfs_cor:PurchaseOfPropertyPlantAndEquipment contextRef="CurrentYearDuration">-1450000000000</jppfs_cor:PurchaseOfPropertyPlantAndEquipment>
+</xbrl>

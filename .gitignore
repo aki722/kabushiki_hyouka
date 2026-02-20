@@ -1,4 +1,9 @@
-node_modules/
+﻿node_modules/
 output/
 *.log
 .worktrees/
+
+!src/equity-valuation/output/
+!src/equity-valuation/output/**
+!tests/equity-valuation/output/
+!tests/equity-valuation/output/**
